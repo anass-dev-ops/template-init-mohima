@@ -1,0 +1,29 @@
+/**
+    created By: Anass LAARIBI
+    Date: 12/12/2021
+*/
+
+:root {
+    --color-primary: #76448A;
+    --color-secondary: #4A235A;
+
+
+}
+
+/* Start General CSS */
+.bg-my-primary {
+    background-color: var(--color-primary);
+}
+/* End General CSS */
+
+/* Start navbar */
+.navbar {
+    padding: 1rem;
+}
+/* End Navbar */
+
+/* Start Home */
+.home{
+    background-color: var(--color-secondary);
+}
+/* End Home */
