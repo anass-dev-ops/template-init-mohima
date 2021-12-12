@@ -25,5 +25,7 @@
 /* Start Home */
 .home{
     background-color: var(--color-secondary);
+    color: #fff;
+    height: calc(100vh - 84px);
 }
 /* End Home */
