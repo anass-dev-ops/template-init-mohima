@@ -15,6 +15,10 @@
     background-color: var(--color-primary);
     color: #fff;
 }
+.bg-my-secondary {
+    background-color: var(--color-secondary);
+    color: #fff;
+}
 .text-my-primary {
     color: var(--color-primary);
 }
@@ -33,3 +37,19 @@
     height: calc(100vh - 84px);
 }
 /* End Home */
+
+
+/* Start Home2 */
+.home2{
+
+    background-color: #E8DAEF;
+    color: var(--color-primary);
+}
+.home2 .title{
+    margin-top: 200px;
+}
+/* End Home2 */
+
+.test-sec {
+    height: 400px;
+}
